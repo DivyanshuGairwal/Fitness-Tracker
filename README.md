@@ -71,3 +71,59 @@ npm run dev
 Frontend runs on:
 
 http://localhost:5173
+
+
+
+
+
+🧪 Demo Mode
+
+If the backend is not running, the app automatically switches to Demo Mode:
+
+Allows UI interaction
+
+Uses temporary in-memory data
+
+Displays backend status clearly
+
+This helps showcase frontend functionality even without a live backend.
+
+📌 Notes
+
+This project is built for learning and portfolio purposes
+
+Focuses on understanding full-stack flow, not production deployment
+
+Authentication is simplified (no JWT/security hardening)
+
+Can be extended with:
+
+JWT authentication
+
+Cloud database
+
+Deployment (Render / Railway)
+
+👤 Author
+
+Divyanshu Gairwal
+GitHub: https://github.com/DivyanshuGairwal
+
+⭐ Acknowledgements
+
+Built as part of personal learning to understand how real-world full-stack applications are structured and connected.
+
+
+---
+
+### What to do now (final steps)
+
+1. Open `README.md`
+2. Replace everything with the above
+3. Save
+4. Commit & push
+
+```bash
+git add README.md
+git commit -m "Add complete project README"
+git push
