@@ -1,0 +1,11 @@
+com\fitness\tracker\service\WorkoutService.class
+com\fitness\tracker\config\WebConfig$1.class
+com\fitness\tracker\repository\UserRepository.class
+com\fitness\tracker\model\User.class
+com\fitness\tracker\config\WebConfig.class
+com\fitness\tracker\FitnessTrackerApplication.class
+com\fitness\tracker\model\Workout.class
+com\fitness\tracker\repository\WorkoutRepository.class
+com\fitness\tracker\controller\AuthController.class
+com\fitness\tracker\controller\WorkoutController.class
+com\fitness\tracker\service\UserService.class
