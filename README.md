@@ -32,8 +32,6 @@ This repository is intended as a **learning-focused full-stack project**, demons
 - REST APIs
 - H2 / MySQL (configurable)
 
----
-
 ## 📂 Project Structure
 
 fitness-activity-tracker/
@@ -44,8 +42,6 @@ fitness-activity-tracker/
 ├── run-frontend.bat# Frontend startup script
 └── README.md
 
-
----
 
 ## ⚙️ How to Run Locally
 
@@ -111,8 +107,6 @@ GitHub: https://github.com/DivyanshuGairwal
 
 Built as part of personal learning to understand how real-world full-stack applications are structured and connected.
 
-
----
 
 ### What to do now (final steps)
 
