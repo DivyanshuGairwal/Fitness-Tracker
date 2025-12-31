@@ -5,7 +5,6 @@ The project allows users to register, log in, add workouts, and view workout his
 
 This repository is intended as a **learning-focused full-stack project**, demonstrating API communication, database handling, and UI state management. 
 
----
 
 ## 🚀 Features
 
