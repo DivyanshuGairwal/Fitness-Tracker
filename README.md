@@ -15,7 +15,6 @@ This repository is intended as a **learning-focused full-stack project**, demons
 - Demo mode fallback when backend is unavailable
 - Clean and minimal dark UI
 
----
 
 ## 🛠 Tech Stack
 
