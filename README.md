@@ -59,15 +59,6 @@ cd frontend
 npm install
 npm run dev
 
-
-Frontend runs on:
-
-http://localhost:5173
-
-
-
-
-
 🧪 Demo Mode
 
 If the backend is not running, the app automatically switches to Demo Mode:
