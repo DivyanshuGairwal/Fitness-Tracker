@@ -14,8 +14,6 @@ This repository is intended as a **learning-focused full-stack project**, demons
 - Backend status detection (online/offline)
 - Demo mode fallback when backend is unavailable
 - Clean and minimal dark UI
-
-
 ## 🛠 Tech Stack
 
 ### Frontend
